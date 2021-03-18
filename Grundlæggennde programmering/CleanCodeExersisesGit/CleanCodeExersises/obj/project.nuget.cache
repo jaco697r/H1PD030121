@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZVpUXVUn2DzfwNeUtPyCbXlPoCWYas2jUuWaQkZnnzQhO3zNPklri6fZrQbQtnxLIWokqxUtm5H1UgUWA8iwwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\45427\\Desktop\\Grundæggende programmering\\H1PD030121\\Grundlæggennde programmering\\CleanCodeExersisesGit\\CleanCodeExersises\\CleanCodeExersises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\45427\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\45427\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
