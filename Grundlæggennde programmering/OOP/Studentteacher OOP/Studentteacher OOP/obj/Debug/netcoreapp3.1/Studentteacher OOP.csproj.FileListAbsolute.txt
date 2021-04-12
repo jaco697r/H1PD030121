@@ -1,0 +1,13 @@
+C:\Users\45427\Desktop\Skole1\H1PD030121\Grundlæggennde programmering\OOP\Studentteacher OOP\Studentteacher OOP\bin\Debug\netcoreapp3.1\Studentteacher OOP.exe
+C:\Users\45427\Desktop\Skole1\H1PD030121\Grundlæggennde programmering\OOP\Studentteacher OOP\Studentteacher OOP\bin\Debug\netcoreapp3.1\Studentteacher OOP.deps.json
+C:\Users\45427\Desktop\Skole1\H1PD030121\Grundlæggennde programmering\OOP\Studentteacher OOP\Studentteacher OOP\bin\Debug\netcoreapp3.1\Studentteacher OOP.runtimeconfig.json
+C:\Users\45427\Desktop\Skole1\H1PD030121\Grundlæggennde programmering\OOP\Studentteacher OOP\Studentteacher OOP\bin\Debug\netcoreapp3.1\Studentteacher OOP.runtimeconfig.dev.json
+C:\Users\45427\Desktop\Skole1\H1PD030121\Grundlæggennde programmering\OOP\Studentteacher OOP\Studentteacher OOP\bin\Debug\netcoreapp3.1\Studentteacher OOP.dll
+C:\Users\45427\Desktop\Skole1\H1PD030121\Grundlæggennde programmering\OOP\Studentteacher OOP\Studentteacher OOP\bin\Debug\netcoreapp3.1\Studentteacher OOP.pdb
+C:\Users\45427\Desktop\Skole1\H1PD030121\Grundlæggennde programmering\OOP\Studentteacher OOP\Studentteacher OOP\obj\Debug\netcoreapp3.1\Studentteacher OOP.csprojAssemblyReference.cache
+C:\Users\45427\Desktop\Skole1\H1PD030121\Grundlæggennde programmering\OOP\Studentteacher OOP\Studentteacher OOP\obj\Debug\netcoreapp3.1\Studentteacher OOP.AssemblyInfoInputs.cache
+C:\Users\45427\Desktop\Skole1\H1PD030121\Grundlæggennde programmering\OOP\Studentteacher OOP\Studentteacher OOP\obj\Debug\netcoreapp3.1\Studentteacher OOP.AssemblyInfo.cs
+C:\Users\45427\Desktop\Skole1\H1PD030121\Grundlæggennde programmering\OOP\Studentteacher OOP\Studentteacher OOP\obj\Debug\netcoreapp3.1\Studentteacher OOP.csproj.CoreCompileInputs.cache
+C:\Users\45427\Desktop\Skole1\H1PD030121\Grundlæggennde programmering\OOP\Studentteacher OOP\Studentteacher OOP\obj\Debug\netcoreapp3.1\Studentteacher OOP.dll
+C:\Users\45427\Desktop\Skole1\H1PD030121\Grundlæggennde programmering\OOP\Studentteacher OOP\Studentteacher OOP\obj\Debug\netcoreapp3.1\Studentteacher OOP.pdb
+C:\Users\45427\Desktop\Skole1\H1PD030121\Grundlæggennde programmering\OOP\Studentteacher OOP\Studentteacher OOP\obj\Debug\netcoreapp3.1\Studentteacher OOP.genruntimeconfig.cache
