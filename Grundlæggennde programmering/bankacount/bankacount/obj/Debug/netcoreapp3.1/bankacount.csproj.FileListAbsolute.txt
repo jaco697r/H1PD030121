@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Development\Clientside\bankacount\bankacount\obj\Debug\netcoreapp3.1\bankacount.csprojAssemblyReference.cache
+C:\Users\Lenovo\Development\Clientside\bankacount\bankacount\obj\Debug\netcoreapp3.1\bankacount.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Development\Clientside\bankacount\bankacount\obj\Debug\netcoreapp3.1\bankacount.AssemblyInfo.cs
+C:\Users\Lenovo\Development\Clientside\bankacount\bankacount\bin\Debug\netcoreapp3.1\bankacount.exe
+C:\Users\Lenovo\Development\Clientside\bankacount\bankacount\bin\Debug\netcoreapp3.1\bankacount.deps.json
+C:\Users\Lenovo\Development\Clientside\bankacount\bankacount\bin\Debug\netcoreapp3.1\bankacount.runtimeconfig.json
+C:\Users\Lenovo\Development\Clientside\bankacount\bankacount\bin\Debug\netcoreapp3.1\bankacount.runtimeconfig.dev.json
+C:\Users\Lenovo\Development\Clientside\bankacount\bankacount\bin\Debug\netcoreapp3.1\bankacount.dll
+C:\Users\Lenovo\Development\Clientside\bankacount\bankacount\bin\Debug\netcoreapp3.1\bankacount.pdb
+C:\Users\Lenovo\Development\Clientside\bankacount\bankacount\obj\Debug\netcoreapp3.1\bankacount.dll
+C:\Users\Lenovo\Development\Clientside\bankacount\bankacount\obj\Debug\netcoreapp3.1\bankacount.pdb
